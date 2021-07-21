@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
 
-function App() {
+
+const App = () => {
   return (
     <div className="App">
-      <h1>¿Qué hacés pá?</h1>
+      <h1>¿Qué hacés pá?<br/>¿Funcionará el commit ahora?</h1>
     </div>
   );
 }
